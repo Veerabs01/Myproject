@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-var e=10
-=======
-var a=100
->>>>>>> svb
+v
+var e=100
 var b=5
 var c=7
-var d = 9
+var d =100
+var a=4000
